@@ -1,0 +1,9 @@
+{
+    "name": "Let_Me_Eat",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Allows the player to eat whenever they want and not just when their food items are going to run out.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}

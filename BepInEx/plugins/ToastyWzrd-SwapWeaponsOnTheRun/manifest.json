@@ -1,0 +1,8 @@
+{
+  "name": "SwapWeaponsOnTheRun",
+  "description": "This plugin allows you to change your equipment while running.",
+  "version_number": "0.1.1",
+  "website_url": "https://www.nexusmods.com/valheim/mods/838",
+  "dependencies": [
+  ]
+}

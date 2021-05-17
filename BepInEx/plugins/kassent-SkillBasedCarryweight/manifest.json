@@ -1,0 +1,9 @@
+{
+    "name": "SkillBasedCarryweight",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/kassent",
+    "description": "Your jump, run, swim and sneak level can increase your carryweight...",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.602"
+    ]
+}
