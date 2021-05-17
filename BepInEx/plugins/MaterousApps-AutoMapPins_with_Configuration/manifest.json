@@ -1,9 +1,0 @@
-{
-    "name": "AutoMapPins_with_Configuration",
-    "version_number": "1.1.1",
-    "website_url": "https://www.nexusmods.com/valheim/mods/744",
-    "description": "AutoMapPins mod but with configurations for each pin. Along with custom pins for each object.",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.901"
-    ]
-}
